@@ -1,6 +1,6 @@
 # Тут в деталях я поясню, що демонструє кожна сторінка в Tableau:
   ## Посилання:
-[Tableau Public](https://public.tableau.com/app/profile/vova.doms/viz/Cohort_Marketing/Picture)
+    [Tableau Public](https://public.tableau.com/app/profile/vova.doms/viz/Cohort_Marketing/Picture)
   ## Деталі роботи:
     1. надані фільтри, щоб аналізувати дані конкретних каналів;
     2. підсвічувачі, щоб побачити показники каналу на фоні інших.
