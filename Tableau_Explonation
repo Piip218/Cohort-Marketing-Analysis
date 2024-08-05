@@ -1,10 +1,10 @@
-Тут в деталях я поясню, що демонструє кожна сторінка в Tableau:
-  Посилання:
-    [Tableau Public](https://public.tableau.com/app/profile/vova.doms/viz/Cohort_Marketing/Picture)
-  Деталі роботи:
+# Тут в деталях я поясню, що демонструє кожна сторінка в Tableau:
+  ## Посилання:
+[Tableau Public](https://public.tableau.com/app/profile/vova.doms/viz/Cohort_Marketing/Picture)
+  ## Деталі роботи:
     1. надані фільтри, щоб аналізувати дані конкретних каналів;
     2. підсвічувачі, щоб побачити показники каналу на фоні інших.
-  Опис сторінок:
+  ## Опис сторінок:
     1. Number of Users: демонструє динаміку залучення нових користувачів для кожного каналу окремо;
     2. Channel fin Dynamics: показує динаміку отримання прибутку з кожного каналу;
     3. Cost Dynamics by Channel: демонструє динаміку інвестування в кажен окремий канал;
